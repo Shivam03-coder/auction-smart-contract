@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "auctionManager",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Iplcontract.sol": "IPLAUCTIONSMARTCONTRACT"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Iplcontract.sol": {
+			"keccak256": "0xe8806dfe4a5f73285b482bde2145217baffacc27a7322523a3c535fb0dedbb84",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://24e49fbddc1dedbf6c049cf2092269fec5f82ddc78f75a2531a5fb1be05d6d46",
+				"dweb:/ipfs/QmU9ogz7BsMKhaedBSTAKc9roFwgrisJAxGeLaBajd7V1Q"
+			]
+		}
+	},
+	"version": 1
+}

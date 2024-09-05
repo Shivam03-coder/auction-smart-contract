@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Iplcontract.sol": "IPLAUCTSMARTCONTRACT"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Iplcontract.sol": {
+			"keccak256": "0xa782f9b0b6ccc84c5ce34c45198959be5be9fbe3f6a3f7722c72d3d4cfcd7bef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f1eadb3ce45815df85ca1b6eab5833f80490e5d115f541b29d3475d46fe4f21a",
+				"dweb:/ipfs/QmWkbKE9cjpSPZBPVBeGQ6XNSsySZ8FLDo7TaR5eH63AoY"
+			]
+		}
+	},
+	"version": 1
+}
